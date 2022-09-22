@@ -18,7 +18,8 @@
 ![](https://img.shields.io/github/downloads/orangedevs/Orange-Browser/total)
 
 ## Or Use this Browser template
-<a href="https://github.com/orangedevs/Orange-Browser/generate"><button>hi</button></a>
+[Click to generate](https://github.com/orangedevs/Orange-Browser/generate)
+
 ##
 Cloning this project
 ```git
