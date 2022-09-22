@@ -28,6 +28,7 @@ npm run build
 
 ## License
 [MIT](https://github.com/orangedevs/Orange-Browser/blob/main/LICENSE)
+
 ![MIT LICENSE](https://img.shields.io/github/license/orangedevs/Orange-Browser)
 ##
 
