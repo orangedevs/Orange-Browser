@@ -22,7 +22,7 @@
 
 ##
 Cloning this project
-```git
+```bash
 git clone https://github.com/orangedevs/Orange-Browser.git
 ```
 Install the package
