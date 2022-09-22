@@ -4,7 +4,7 @@
 
 [Orange Browser V1.0](https://)
 ## Screenshot
-<img src="https://firebasestorage.googleapis.com/v0/b/orange-dev-v1.appspot.com/o/pic1.png?alt=media&token=2f616017-0723-49dd-9388-5ef6ec69f8bc" width="450px"></img>
+<img src="https://firebasestorage.googleapis.com/v0/b/orange-dev-v1.appspot.com/o/pic1.png?alt=media&token=2f616017-0723-49dd-9388-5ef6ec69f8bc" width="500px"></img>
 
 ## Project Badges
 
