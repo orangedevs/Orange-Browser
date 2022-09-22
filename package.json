@@ -1,0 +1,60 @@
+{
+  "name": "Orange-Browser",
+  "productName": "Orange Browser",
+  "description": "Lightweight Electron Browser For Games",
+  "company": "Orange-Dev",
+  "file-description": "Orange Browser for Games",
+  "file-version":"1.0.0",
+  "icon": "./icons/browser.ico",
+  "author": "Orange Dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "publish": "electron-builder --win -p always",
+    "build": "electron-builder --win ",
+    "buildmac": "electron-builder --mac "
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5",
+    "electron-builder": "22.9.1"
+  },
+  "dependencies": {
+    "electron-navigation": "^1.5.8",
+    "electron-updater": "4.3.5"
+  },
+  "build": {
+    "appId": "com.obrows.app",
+    "extraResources": [
+      "./plugins/**"
+    ],
+    "directories": {
+      "buildResources": "resources",
+      "output": "release"
+    },
+    "mac":{
+      "icon" : "./icons/browser.ico"
+    },
+    "win": {
+      "icon" : "./icons/browser.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "ia32"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "installerIcon": "./icons/browser.ico",
+      "uninstallerIcon": "./icons/browser.ico",
+      "uninstallDisplayName": "Orange Browser",
+      "oneClick": true,
+      "perMachine": false,
+      "artifactName": "OrangeBrowser.${ext}"
+    }
+  }
+}
