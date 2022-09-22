@@ -2,6 +2,7 @@
 
 ## Install the app
 Issue ![](https://img.shields.io/github/issues/orangedevs/Orange-Browser)
+
 [Orange Browser V1.0](https://)
 ## Screenshot
 ![Pic1](./img/pic1.png)
