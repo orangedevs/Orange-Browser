@@ -1,7 +1,7 @@
 # 🍊Orange Dev
 
 ## Install the app
-[Orange Browser V1.0](https://github.com/orangedevs/Orange-Browser/releases/tag/V1.0.0)
+[Orange Browser V1.0.0](https://github.com/orangedevs/Orange-Browser/releases/tag/V1.0.0)
 ## Screenshot
 ![Pic1](https://firebasestorage.googleapis.com/v0/b/orange-dev-v1.appspot.com/o/pic1.png?alt=media&token=2f616017-0723-49dd-9388-5ef6ec69f8bc)
 ## Or Use this Browser template
